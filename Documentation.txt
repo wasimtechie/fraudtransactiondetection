@@ -1,0 +1,14 @@
+Requirement's to run the code
+1.  sys
+2. numpy
+3. pandas
+4. matplotlib
+5. seaborn
+6. scipy
+7. sklearn
+
+Get the code from github repository
+1. get the code from the repository
+(wasimtechie)
+2.Run the code in python IDE (suggested IDE jupyter notebook) 
+3.creditcard.csv which is use used to train a transaction classifier.https://clouda-datasets.s3.amazonaws.com/creditcard.csv.zip
